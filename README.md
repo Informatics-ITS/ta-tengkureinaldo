@@ -18,7 +18,7 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
 
 *Konten selanjutnya hanya merupakan contoh awalan yang baik. Anda dapat berimprovisasi bila diperlukan.*
 
-## 🛠 Panduan Instalasi & Menjalankan Software  
+## 🛠 Panduan Instalasi  
 
 ### Prasyarat  
 - Daftar dependensi (contoh):
@@ -28,11 +28,14 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
   - [Lainnya...]
 
 ### Langkah-langkah
-1. **Daftar Akun**  
-2. **Pilih Peran**
-- Peran yang tersedia: Agen Properti, Penyewa, dan Pemilik Apartemen
-3. **Masuk Dengan Akun Terdaftar**
-4. **Jelajahi Semua Fiturnya**
+- Desktop
+1. Akses Melalui Tautan Berikut : https://www.appsheet.com/start/8b997da0-02f7-42cb-ad3f-b4621ab01292
+- Mobile
+1. Akses Melalui Tautan Berikut : https://www.appsheet.com/newshortcut/8b997da0-02f7-42cb-ad3f-b4621ab01292
+
+---
+
+## Panduan Penggunaan
 
 ---
 
