@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Tengku Fredly Reinaldo  
+**NRP**: 5025201198  
+**Judul TA**: Sistem Penyewaan Apartemen Di Surabaya Dengan Pendekatan NoCode Menggunakan Google Workspace   
+**Dosen Pembimbing**: Dr. Agus Budi Raharjo, S.Kom., M.Kom.  
+**Dosen Ko-pembimbing**: Fajar Baskoro, S.Kom., M.T.
 
 ---
 
