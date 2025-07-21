@@ -27,26 +27,12 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
   - MySQL 8.0
   - [Lainnya...]
 
-### Langkah-langkah  
-1. **Clone Repository**  
-   ```bash
-   git clone https://github.com/Informatics-ITS/TA.git
-   ```
-2. **Instalasi Dependensi**
-   ```bash
-   cd [folder-proyek]
-   pip install -r requirements.txt  # Contoh untuk Python
-   npm install  # Contoh untuk Node.js
-   ```
-3. **Konfigurasi**
-- Salin/rename file .env.example menjadi .env
-- Isi variabel lingkungan sesuai kebutuhan (database, API key, dll.)
-4. **Jalankan Aplikasi**
-   ```bash
-   python main.py  # Contoh untuk Python
-   npm start      # Contoh untuk Node.js
-   ```
-5. Buka browser dan kunjungi: `http://localhost:3000` (sesuaikan dengan port proyek Anda)
+### Langkah-langkah
+1. **Daftar Akun**  
+2. **Pilih Peran**
+- Peran yang tersedia: Agen Properti, Penyewa, dan Pemilik Apartemen
+3. **Masuk Dengan Akun Terdaftar**
+4. **Jelajahi Semua Fiturnya**
 
 ---
 
