@@ -16,8 +16,6 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
 
 ---
 
-*Konten selanjutnya hanya merupakan contoh awalan yang baik. Anda dapat berimprovisasi bila diperlukan.*
-
 ## 📝 Deskripsi Tugas Akhir
 Tugas akhir ini berfokus pada pengembangan sebuah aplikasi sistem penyewaan apartemen dengan pendekatan _no-code development_ menggunakan aplikasi yang ada di dalam Google Workspace. Aplikasi yang dihasilkan dapat dijalankan melalui _web browser_ atau instalasi aplikasi pada _mobile phone_. Pada aplikasi ini, pengguna dapat melakukan penyewaan apartemen serta mengiklankan apartemen miliknya.
 
