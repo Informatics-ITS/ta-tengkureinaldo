@@ -23,14 +23,6 @@ Tugas akhir ini berfokus pada pengembangan sebuah aplikasi sistem penyewaan apar
 
 ## 🛠 Panduan Instalasi  
 
-### Prasyarat  
-- Daftar dependensi (contoh):
-  - Python 3.10+
-  - Node.js v18+
-  - MySQL 8.0
-  - [Lainnya...]
-
-### Langkah-langkah
 - Desktop
   - Akses Melalui Tautan Berikut : https://www.appsheet.com/start/8b997da0-02f7-42cb-ad3f-b4621ab01292
 - Mobile
