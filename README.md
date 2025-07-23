@@ -31,7 +31,24 @@ Tugas akhir ini berfokus pada pengembangan sebuah aplikasi sistem penyewaan apar
 ---
 
 ## 💻 Panduan Penggunaan
+- Penyewaan Apartemen
+1. Masuk sebagai _Guest_
+2. Pilih apartemen yang ingin disewa pada halaman "Explore"
+3. Klik tombol "Booking" untuk membuat ajuan sewa
+4. Isi data terkait penyewaan yang akan dilakukan
+5. Tunggu persetujuan dari pemilik apartemen
+6. Apabila ajuan sewa disetujui oleh pemilik apartemen, lanjutkan ke tahap pembayaran
+7. Apabila pembayaran sudah terkonfirmasi, apartemen berhasil disewa
 
+- Pengiklanan Apartemen
+1. Masuk sebagai _Owner_
+2. Buka halaman "Apartments"
+3. Klik tombol "Add" untuk menambahkan data apartemen
+4. Isi data terkait apartemen yang ingin diiklankan
+5. Setelah data tersimpan, klik tombol "Request" untuk membuat ajuan permintaan memasang iklan
+6. Pilih agen properti yang akan mengiklankan apartemen
+7. Tunggu persetujuan dari agen properti
+8. Apabila ajuan iklan disetujui, apartemen akan diiklankan oleh agen properti yang telah dipilih
 ---
 
 ## 📚 Dokumentasi Tambahan
