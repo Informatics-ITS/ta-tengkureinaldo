@@ -26,7 +26,7 @@ Tugas akhir ini berfokus pada pengembangan sebuah aplikasi sistem penyewaan apar
 - Desktop
   - Akses Melalui Tautan Berikut : https://www.appsheet.com/start/8b997da0-02f7-42cb-ad3f-b4621ab01292
 - Mobile
-  - Akses Melalui Tautan Berikut : https://www.appsheet.com/newshortcut/8b997da0-02f7-42cb-ad3f-b4621ab01292
+  - _Install_ Menggunakan Tautan Berikut : https://www.appsheet.com/newshortcut/8b997da0-02f7-42cb-ad3f-b4621ab01292
 
 ---
 
