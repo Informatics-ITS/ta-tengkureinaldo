@@ -46,9 +46,8 @@ Tugas akhir ini berfokus pada pengembangan sebuah aplikasi sistem penyewaan apar
 
 ## 📚 Dokumentasi Tambahan
 
-- [![Dokumentasi API]](docs/api.md)
-- [![Diagram Arsitektur]](docs/architecture.png)
-- [![Struktur Basis Data]](docs/database_schema.sql)
+- [![Dokumentasi API]](https://docs.midtrans.com/reference/snap-api-overview)
+- [![Struktur Basis Data]](https://drive.google.com/file/d/1osyyOaerBBs3iNJT4SB4m85v2r8fWsA-/view?usp=sharing)
 
 ---
 
