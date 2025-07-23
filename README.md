@@ -60,5 +60,5 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: 5025201198@student.its.ac.id
-- Pembimbing Utama: agus.budi@its.ac.id
+- Penulis: 5025201198[at]student.its.ac.id
+- Pembimbing Utama: agus.budi[at]its.ac.id
