@@ -9,9 +9,8 @@
 ---
 
 ## 📺 Demo Aplikasi  
-Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):  
 
-[![Demo Aplikasi](https://i.ytimg.com/vi/zIfRMTxRaIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
+[![Demo Aplikasi](https://i.ytimg.com/vi/Q1AdDGirVoc/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q1AdDGirVoc)  
 *Klik gambar di atas untuk menonton demo*
 
 ---
@@ -55,16 +54,6 @@ Tugas akhir ini berfokus pada pengembangan sebuah aplikasi sistem penyewaan apar
 
 - [![Dokumentasi API]](https://docs.midtrans.com/reference/snap-api-overview)
 - [![Struktur Basis Data]](https://drive.google.com/file/d/1osyyOaerBBs3iNJT4SB4m85v2r8fWsA-/view?usp=sharing)
-
----
-
-## ✅ Validasi
-
-Pastikan proyek memenuhi kriteria berikut sebelum submit:
-- Source code dapat di-build/run tanpa error
-- Video demo jelas menampilkan fitur utama
-- README lengkap dan terupdate
-- Tidak ada data sensitif (password, API key) yang ter-expose
 
 ---
 
